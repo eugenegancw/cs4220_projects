@@ -1,5 +1,7 @@
-# cs4220_projects
-Repository for Project 1 - Mutation calling in cancer
+# cs4220_projects - Using supervised Machine Learning to predict mutation calling in cancer
+Repository for Project 1
+Done by Eugene Gan Cheong Wei, Le Thi Ngoc Anh, Melissa Lim Shu Wen 
+
 
 ### Installation
 ```
